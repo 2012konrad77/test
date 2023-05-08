@@ -1,2 +1,2 @@
 # test
-This is my testing script 
+This is my testing script - Python Masterclass course
